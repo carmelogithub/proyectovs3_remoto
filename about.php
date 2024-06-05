@@ -1,2 +1,2 @@
 <?php
-echo "esto es el about";
+echo("esto es el about");
